@@ -48,3 +48,7 @@ NOTE: While in Non-Stop Mode or Simultaneous Mode, you can toggle Hold-Release M
 > To close the app, just click on the "X" on the top right of the frame.
 
 > To resize: You can drag your mouse from the right/bottom/bottom-right edge of the frame and move your mouse slowly.
+
+- Warning:
+
+> Once the application starts executing, it cannot be stopped. Be careful with the timings and instructions!
