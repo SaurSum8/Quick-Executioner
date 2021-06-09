@@ -49,6 +49,8 @@ NOTE: While in Non-Stop Mode or Simultaneous Mode, you can toggle Hold-Release M
 
 > To resize: You can drag your mouse from the right/bottom/bottom-right edge of the frame and move your mouse slowly.
 
+> You can also add a delay without stopping the recording by pressesing the INSERT (INS) Key on your keyborad.
+
 - Warning:
 
 > Once the application starts executing, it cannot be stopped. Be careful with the timings and instructions!
