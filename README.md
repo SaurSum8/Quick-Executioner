@@ -33,7 +33,7 @@ NOTE: Read Record Displayer / Instructions section to find out how to specify th
 
 Warning: In Simultaneous Mode, once an input is recorded, it will take about ~300 milliseconds to record it, unlike Non-Stop Mode.
 
-NOTE: While in Non-Stop Mode or Simultaneous Mode, you can toggle Hold-Release Mode without stopping the recording by pressing the \ or | key.
+NOTE: While in Non-Stop Mode or Simultaneous Mode, you can toggle Hold-Release Mode without stopping the recording by pressing the \ or | key. You can also add a delay while in those modes by pressesing the INSERT (INS) Key on your keyborad.
 
 - Record Displayer / Instructions:
 
