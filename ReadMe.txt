@@ -23,7 +23,7 @@ Quick Executioner is a software in which you can input mouse-keyboard instructio
 
 > Add Repeater: Adds a repeat instruction, meaning all the instructions above the repeat instruction will be repeated / executed again for the amount of times specified.
 
-NOTE: Read Record Displayer / Instructions section to find out how to specify the values for repeater and delays.
+NOTE: Read Record Displayer / Instructions section to find out how to specify the values for repeater and delays. 
 
 > Hold-Release Toggle: If you want to do complex instructions such as ctrl + v, or a combination of many keys, you will have to use Hold-Release Toggle. When it is activated, the first time you press you desired key/mouse button it will record it in the hold mode, meaning that key will be held for the next instructions until released. The second time you press the same key/mouse button (of course still in Hold-Release Mode), it will release it. 
 
@@ -33,7 +33,7 @@ NOTE: Read Record Displayer / Instructions section to find out how to specify th
 
 Warning: In Simultaneous Mode, once an input is recorded, it will take about ~300 milliseconds to record it, unlike Non-Stop Mode.
 
-NOTE: While in Non-Stop Mode or Simultaneous Mode, you can toggle Hold-Release Mode without stopping the recording by pressing the \ or | key.
+NOTE: While in Non-Stop Mode or Simultaneous Mode, you can toggle Hold-Release Mode without stopping the recording by pressing the \ or | key. You can also add a delay while in those modes by pressesing the INSERT (INS) Key on your keyborad.
 
 - Record Displayer / Instructions:
 
