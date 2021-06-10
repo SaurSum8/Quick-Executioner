@@ -51,6 +51,10 @@ NOTE: While in Non-Stop Mode or Simultaneous Mode, you can toggle Hold-Release M
 
 > You can also add a delay without stopping the recording by pressesing the INSERT (INS) Key on your keyborad.
 
+> You can delete all instructions by pressing the END key on your keyboard.
+
+> When you execute or start a recording of an instruction, a white boundary will appear aroung the frame. This signifies that the app is either recording or executing the instructions.
+
 - Warning:
 
 > Once the application starts executing, it cannot be stopped. Be careful with the timings and instructions!
